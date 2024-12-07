@@ -55,7 +55,6 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=gnm-thanay
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gnm-thanay&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnm-thanay)](https://github.com/anuraghazra/github-readme-stats)
