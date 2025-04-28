@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on advertising analytics<br>👯 I’m looking to collaborate on machine Learning projects<br>🤝 I’m looking for help with Optimizing deep learning model performance and scalability<br>🌱 I’m currently learning LLMs and GenAI<br>💬 Ask me about anything data!<br>⚡ Fun fact I love pizza!
+🔭 I’m currently working on banking analytics<br>👯 I’m looking to collaborate on machine Learning projects<br>🤝 I’m looking for help with Optimizing deep learning model performance and scalability<br>🌱 I’m currently learning LLMs and GenAI<br>💬 Ask me about anything data!<br>⚡ Fun fact I love pizza!
 
 
 ## 🌐 Socials:
